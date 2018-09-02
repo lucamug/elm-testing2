@@ -1,7 +1,16 @@
 {
-    "homeHeader": "Test",
-    "homeSection01": "01",
-    "homeSection02": "02",
-    "homeSection03": "03",
-    "homeSection04": "04"
+    "home": {
+        "header": "Header: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "section01": "01: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "section02": "02: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "section03": "03: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "section04": "04: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "timeline": "Timeline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "about": {
+        "header": "About: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n# Apple Pie Recipe\n\n1. Invent the universe.\n2. Bake an apple pie.\n"
+    },
+    "main": {
+        "footer": "Copyright © 2018 Organism. All rights reserverd."
+    }
 }
